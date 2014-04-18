@@ -1,5 +1,5 @@
 ---
-title: Why I left Facebook
+title: Why I am leaving Facebook
 ---
 
 This is my answer to my Facebook (now ex)-friends who ask me why I'm quitting
@@ -10,15 +10,15 @@ Google, Facebook, Skype and the like are evil. I knew it since a while, since
 the NSA scandal broke. Yet, I didn't have enough balls, or consciousness, to
 get rid of it.
 
-I looked for excuses. *Thanks for Facebook I met my childhood friends*. *It
+I looked for excuses. *Thanks to Facebook I met my childhood friends*. *It
 helps me keep in touch with my family and friends in my home country*. *Thanks
 to FB I can follow my favorite bands' news*.
 
-Then I ended up forgetting how bad it was and kept feeding it my personal life
+Then I ended up discarding how bad it was and kept feeding it my personal life
 and my time.
 
-Most people buy this shit. Hell, most people don't even know what the hell they
-are about.  
+Most people buy this shit. Hell, most people don't even know what the hell it is
+about.  
 [Evbogue](http://evbogue.com/) isn't one of them, and after a little chat about
 *Facecrack* and social networks, he reminded me of how bad it was. I then came
 to the conclusion that I need to get the fuck out, for real, no matter what the
@@ -90,8 +90,8 @@ I personally developed some kind of justified paranoia over time. I can't feel
 comfortable knowing someone or something's know so much about me. I feel like
 walking in the street naked (actually I'd rather walk in the street naked).
 
-Privacy violation is not only a *feeling* of being watched, it is something much
-more real, that FB users are constantly exposed to through ads.  
+Privacy violation is not only the *feeling* of being watched, it is something
+much more real, that FB users are constantly exposed to through ads.  
 Thanks to your information and activity, advertisers can target you using
 very specific filters. That's how you get guitar ads when you say you'd like to
 learn to play music, concert tickets ads when you visist an artist's Facebook
@@ -209,10 +209,17 @@ publicly available, but the fact that it's linked to your
 already-full-of-data-about-you Google profile.  
 This is really really a bad idea.
 
-When these bastards give you beautiful, learn, smart and well connected service,
+When these bastards give you beautiful, neat, smart and well connected service,
 it's for a reason (hint: knowing everything about you).
 
 ## Final words
+Even if I haven't left yet, I'm happy I made the most important steps to prepare my
+escape and I already feel clean, productive and in control of what I share with
+the world.  
+I know a lot of people think *they can't live without Facebook*, it's too
+hard to leave, or it is simply not worth it; therefore I hope this post showed
+them that by making small and irreversible steps, leaving Facebook is definitely
+doable.
 
 ## More reading
 * [Why you should leave Facebook](https://startpage.com/do/search?q=why+leave+facebook): I recommend reading the few top articles. They give more reasons than I did.
@@ -221,6 +228,3 @@ it's for a reason (hint: knowing everything about you).
 * [Everybody knows Google is considered harmful](http://evbogue.com/googleharmful/)
 * [Get Off](http://gwenbell.com/getoff/)
 * [Algorithms Anonymous](http://www.gwenbell.com/algorithmsanonymous/)
-
-Thanks to the last two authors for their motivational and inspiring articles and
-thoughts. I recommend anyone to read their blogs.
