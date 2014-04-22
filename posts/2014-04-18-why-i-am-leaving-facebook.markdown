@@ -228,3 +228,4 @@ doable.
 * [Everybody knows Google is considered harmful](http://evbogue.com/googleharmful/)
 * [Get Off](http://gwenbell.com/getoff/)
 * [Algorithms Anonymous](http://www.gwenbell.com/algorithmsanonymous/)
+* [Vkontakte Founder Flees Russia, Claims Persecution](http://www.themoscowtimes.com/news/article/vkontakte-founder-flees-russia-claims-persecution/498715.html) (added on April 22, 2014)
