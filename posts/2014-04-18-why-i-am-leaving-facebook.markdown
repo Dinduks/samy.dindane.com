@@ -161,6 +161,7 @@ How many friends come looking after you?
 If you read until here, you should have realized that Facebook is harmful and
 that you should leave. Not *someday*, but right now.  
 Here's few things you can do instead of scrolling your friends' timeline:
+
 * Remove Facebook from your bookmarks bar and you browser's home page.  
 * Deleting your picures, videos, and "About" information; these are the easiest
 information to get rid off.  
