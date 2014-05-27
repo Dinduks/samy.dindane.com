@@ -14,3 +14,7 @@ p {
 blockquote p {
   margin: 0;
 }
+
+#contact-details {
+  text-align: left;
+}
