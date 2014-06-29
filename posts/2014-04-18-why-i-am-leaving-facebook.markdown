@@ -225,9 +225,9 @@ doable.
 ## More reading
 * [Why you should leave Facebook](https://startpage.com/do/search?q=why+leave+facebook): I recommend reading the few top articles. They give more reasons than I did.
 * [How Facebook Uses Your Data to Target Ads, Even Offline](http://lifehacker.com/5994380/how-facebook-uses-your-data-to-target-ads-even-offline)
-* [How to clear your mind](http://evbogue.com/clearyourmind/)
-* [Everybody knows Google is considered harmful](http://evbogue.com/googleharmful/)
-* [Get Off](http://gwenbell.com/getoff/)
+* [How to clear your mind](https://web.archive.org/web/20140502225125/http://evbogue.com/clearyourmind/)
+* [Everybody knows Google is considered harmful](https://web.archive.org/web/20140502225625/http://evbogue.com/googleharmful/)
+<!-- * [Get Off](http://gwenbell.com/getoff/) -->
 * [Algorithms Anonymous](http://www.gwenbell.com/algorithmsanonymous/)
 * [Vkontakte Founder Flees Russia, Claims Persecution](http://www.themoscowtimes.com/news/article/vkontakte-founder-flees-russia-claims-persecution/498715.html) (added on April 22, 2014)
 * [Facebook's unethical experiment intentionally manipulated users' emotions without their knowledge](http://www.slate.com/articles/health_and_science/science/2014/06/facebook_unethical_experiment_it_made_news_feeds_happier_or_sadder_to_manipulate.html) (added on June 29, 2014)
