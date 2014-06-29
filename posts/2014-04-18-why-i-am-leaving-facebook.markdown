@@ -230,3 +230,4 @@ doable.
 * [Get Off](http://gwenbell.com/getoff/)
 * [Algorithms Anonymous](http://www.gwenbell.com/algorithmsanonymous/)
 * [Vkontakte Founder Flees Russia, Claims Persecution](http://www.themoscowtimes.com/news/article/vkontakte-founder-flees-russia-claims-persecution/498715.html) (added on April 22, 2014)
+* [Facebook's unethical experiment intentionally manipulated users' emotions without their knowledge](http://www.slate.com/articles/health_and_science/science/2014/06/facebook_unethical_experiment_it_made_news_feeds_happier_or_sadder_to_manipulate.html) (added on June 29, 2014)
